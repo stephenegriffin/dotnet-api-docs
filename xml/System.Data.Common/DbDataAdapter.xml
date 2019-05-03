@@ -2219,7 +2219,7 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       </Parameters>
       <Docs>
         <param name="value">The data for the event.</param>
-        <summary>Raises the <see cref="E:System.Data.Common.DataAdapter.FillError"/> event.</summary>
+        <summary>Raises the <see cref="E:System.Data.Common.DataAdapter.FillError" /> event.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>

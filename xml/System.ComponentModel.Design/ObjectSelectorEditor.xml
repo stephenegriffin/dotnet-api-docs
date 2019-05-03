@@ -93,32 +93,6 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
-    <Member MemberName="ApplyTreeViewThemeStyles">
-      <MemberSignature Language="C#" Value="public static void ApplyTreeViewThemeStyles (System.Windows.Forms.TreeView treeView);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig void ApplyTreeViewThemeStyles(class System.Windows.Forms.TreeView treeView) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.ComponentModel.Design.ObjectSelectorEditor.ApplyTreeViewThemeStyles(System.Windows.Forms.TreeView)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; static void ApplyTreeViewThemeStyles(System::Windows::Forms::TreeView ^ treeView);" />
-      <MemberSignature Language="F#" Value="static member ApplyTreeViewThemeStyles : System.Windows.Forms.TreeView -&gt; unit" Usage="System.ComponentModel.Design.ObjectSelectorEditor.ApplyTreeViewThemeStyles treeView" />
-      <MemberType>Method</MemberType>
-      <AssemblyInfo>
-        <AssemblyName>System.Windows.Forms.Design.Editors</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
-        <AssemblyName>System.Design</AssemblyName>
-      </AssemblyInfo>
-      <ReturnValue>
-        <ReturnType>System.Void</ReturnType>
-      </ReturnValue>
-      <Parameters>
-        <Parameter Name="treeView" Type="System.Windows.Forms.TreeView" Index="0" FrameworkAlternate="netcore-3.0" />
-      </Parameters>
-      <Docs>
-        <param name="treeView">To be added.</param>
-        <summary>To be added.</summary>
-        <remarks>To be added.</remarks>
-      </Docs>
-    </Member>
     <Member MemberName="currValue">
       <MemberSignature Language="C#" Value="protected object currValue;" />
       <MemberSignature Language="ILAsm" Value=".field family object currValue" />
